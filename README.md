@@ -7,11 +7,7 @@
   
   Built using <b>NodeJS</b> using MVC pattern.
  
-  <b>Frontend:</b>
-  - Components (as reusable as possible)
-  - Redux (handling auth, cart and basic cache)
-  - Protected routes (avoid unauthentificated users to navigate)
-  - API (using axios)
+  <b>Frontend:</b> https://github.com/westwol/react-diem-ecommerce-frontend/
  
   <b>Backend:</b>
   - Controllers (handle every logic task including database requests)
